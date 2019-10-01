@@ -6,7 +6,7 @@
 
     <vmrss:metadata>
       <!-- 1st category level. -->
-	  <vmrss:categoryData order="1" path="series" label="Bunny Stories" description="Section with cool clips."/>
+	  <vmrss:categoryData order="1" path="series" label="The Bunny Stories" description="Section with cool clips."/>
       <vmrss:categoryData order="2" path="videos" label="Bunny Collections" description="Section with cool clips."/>
 
       <!-- 2nd category level. -->
