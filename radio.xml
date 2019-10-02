@@ -17,7 +17,6 @@
       <vmrss:categoryData order="3" path="sports" label="Sports" description="Sports Description"/>
     </vmrss:metadata>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>SportsRadio 610</media:title>
       <media:description>Houston</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KILTAM.jpg" width="256" height="144" />
@@ -27,7 +26,6 @@
       <vmrss:orderInCategory path="sports" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>WBBM Newsradio 780 AM &amp; 105.9 FM</media:title>
       <media:description>Chicago</media:description>
       <media:thumbnail url="https://images.radio.com/logos/WBBM_1400x1400.jpg" width="256" height="144" />
@@ -37,7 +35,6 @@
       <vmrss:orderInCategory path="news" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Chicago's Blues &amp; Soul</media:title>
       <media:description>Chicago</media:description>
       <media:thumbnail url="https://images.radio.com/logos/WXRTHD2.jpg" width="256" height="144" />
@@ -47,7 +44,6 @@
       <vmrss:orderInCategory path="music/5" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Infinity Radio</media:title>
       <media:description>null</media:description>
       <media:thumbnail url="https://images.radio.com/logos/INFINITY.jpg" width="256" height="144" />
@@ -57,7 +53,6 @@
       <vmrss:orderInCategory path="music/8" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>News and Talk Radio 840 AM</media:title>
       <media:description>Las Vegas</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KXNT-AM_1400x1400.jpg" width="256" height="144" />
@@ -67,7 +62,6 @@
       <vmrss:orderInCategory path="news" value="2" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>KFROG</media:title>
       <media:description>Colton</media:description>
       <media:thumbnail url="https://images.radio.com/logos/kfrg-logo.png" width="256" height="144" />
@@ -77,7 +71,6 @@
       <vmrss:orderInCategory path="music/2" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>K-FROG NEXT</media:title>
       <media:description>Colton</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KFRGHD2.png" width="256" height="144" />
@@ -87,7 +80,6 @@
       <vmrss:orderInCategory path="music/2" value="2" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Mega 101 Houston</media:title>
       <media:description>Houston</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KLOLFM.png" width="256" height="144" />
@@ -97,7 +89,6 @@
       <vmrss:orderInCategory path="music/17" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>KROQ</media:title>
       <media:description>Los Angeles</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KROQFM_new.jpg" width="256" height="144" />
@@ -107,7 +98,6 @@
       <vmrss:orderInCategory path="music/5" value="2" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>102.5 KSFM</media:title>
       <media:description>Sacramento</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KSFMFM.png" width="256" height="144" />
@@ -119,7 +109,6 @@
       <vmrss:orderInCategory path="music/15" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Classic Live 105</media:title>
       <media:description>San Francisco</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KITSHD2.jpg" width="256" height="144" />
@@ -129,7 +118,6 @@
       <vmrss:orderInCategory path="music/5" value="3" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>1010 WINS</media:title>
       <media:description>New York</media:description>
       <media:thumbnail url="https://images.radio.com/logos/WINSAM.jpg" width="256" height="144" />
@@ -139,7 +127,6 @@
       <vmrss:orderInCategory path="news" value="3" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>102.5 KEZK</media:title>
       <media:description>Saint Louis</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KEZKFM.png" width="256" height="144" />
@@ -149,7 +136,6 @@
       <vmrss:orderInCategory path="music/0" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Star 102</media:title>
       <media:description>Cleveland</media:description>
       <media:thumbnail url="https://images.radio.com/logos/WDOKFM_New.png" width="256" height="144" />
@@ -159,7 +145,6 @@
       <vmrss:orderInCategory path="music/0" value="2" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>SportsRadio 94WIP</media:title>
       <media:description>Philadelphia</media:description>
       <media:thumbnail url="https://images.radio.com/logos/WIP_1400x1400.jpg" width="256" height="144" />
@@ -169,7 +154,6 @@
       <vmrss:orderInCategory path="sports" value="2" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>100.3 Jack FM</media:title>
       <media:description>Dallas</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KJKKFM.jpg" width="256" height="144" />
@@ -179,7 +163,6 @@
       <vmrss:orderInCategory path="music/8" value="2" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>94.7 The WAVE</media:title>
       <media:description>Los Angeles</media:description>
       <media:thumbnail url="https://images.radio.com/logos/ktwv-square-logo.png" width="256" height="144" />
@@ -189,7 +172,6 @@
       <vmrss:orderInCategory path="music/4" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>The Oasis - Modern Jazz</media:title>
       <media:description>Dallas</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KVILHD2.png" width="256" height="144" />
@@ -199,7 +181,6 @@
       <vmrss:orderInCategory path="music/7" value="1" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Talk Radio 1210 WPHT</media:title>
       <media:description>Philadelphia</media:description>
       <media:thumbnail url="https://images.radio.com/logos/WPHT-AM_1400x1400.jpg" width="256" height="144" />
@@ -209,7 +190,6 @@
       <vmrss:orderInCategory path="news" value="4" />
     </item>
     <item>
-      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Alice @ 97.3</media:title>
       <media:description>San Francisco</media:description>
       <media:thumbnail url="https://images.radio.com/logos/KLLC-FM_1400x1400.jpg" width="256" height="144" />
