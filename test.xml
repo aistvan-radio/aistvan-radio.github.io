@@ -149,7 +149,7 @@
       <vmrss:orderInCategory path="videos/cute" value="1" />
       <vmrss:orderInCategory path="series/episode3" value="1" />
       <!-- / optional -->
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" />
       <media:keywords>bunny, cute</media:keywords>
     </item>
 
