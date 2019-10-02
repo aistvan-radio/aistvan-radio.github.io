@@ -4,15 +4,19 @@
     <description>Description of channel content</description>
     <vmrss:metadata>
       <vmrss:categoryData order="1" path="music" label="Music" description="Music Description"/>
-        <vmrss:categoryData order="1" path="music/0" label="Music Pop" description="Music Description"/>
-        <vmrss:categoryData order="2" path="music/2" label="Music Country" description="Music Description"/>
-        <vmrss:categoryData order="3" path="music/4" label="Music Urban" description="Music Description"/>
-        <vmrss:categoryData order="4" path="music/5" label="Music Alternative" description="Music Description"/>
-        <vmrss:categoryData order="5" path="music/7" label="Music Jazz/Blues" description="Music Description"/>
-        <vmrss:categoryData order="6" path="music/8" label="Music Specialty Stations" description="Music Description"/>
-        <vmrss:categoryData order="7" path="music/14" label="Music Rhythmic" description="Music Description"/>
-        <vmrss:categoryData order="8" path="music/15" label="Music Hip-Hop" description="Music Description"/>
-        <vmrss:categoryData order="9" path="music/17" label="Music Spanish" description="Music Description"/>
+        <vmrss:categoryData order="1" path="music/0" label="Pop" description="Music Description"/>
+        <vmrss:categoryData order="2" path="music/1" label="Rock" description="Music Description"/>
+        <vmrss:categoryData order="3" path="music/2" label="Country" description="Music Description"/>
+        <vmrss:categoryData order="4" path="music/3" label="Classic Hits" description="Music Description"/>
+        <vmrss:categoryData order="5" path="music/4" label="Urban" description="Music Description"/>
+        <vmrss:categoryData order="6" path="music/5" label="Alternative" description="Music Description"/>
+        <vmrss:categoryData order="7" path="music/7" label="Jazz/Blues" description="Music Description"/>
+        <vmrss:categoryData order="8" path="music/8" label="Specialty Stations" description="Music Description"/>
+        <vmrss:categoryData order="9" path="music/9" label="Adult Contemporary" description="Music Description"/>
+        <vmrss:categoryData order="10" path="music/13" label="Dance/EDM" description="Music Description"/>
+        <vmrss:categoryData order="11" path="music/14" label="Rhythmic" description="Music Description"/>
+        <vmrss:categoryData order="12" path="music/15" label="Hip-Hop" description="Music Description"/>
+        <vmrss:categoryData order="13" path="music/17" label="Spanish" description="Music Description"/>
       <vmrss:categoryData order="2" path="news" label="News &amp; Talk" description="News &amp; Talk Description"/>
       <vmrss:categoryData order="3" path="sports" label="Sports" description="Sports Description"/>
     </vmrss:metadata>
@@ -197,6 +201,186 @@
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music/0</media:category>
       <vmrss:orderInCategory path="music/0" value="3" />
+    </item>
+    <item>
+      <media:title>NEW 102.7</media:title>
+      <media:description>New York</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/WNEWFM_800x800.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_20.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/9</media:category>
+      <vmrss:orderInCategory path="music/9" value="1" />
+    </item>
+    <item>
+      <media:title>WCBS-FM</media:title>
+      <media:description>New York</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/WCBSFM.jpg" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_21.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/3</media:category>
+      <vmrss:orderInCategory path="music/3" value="1" />
+    </item>
+    <item>
+      <media:title>WYSP</media:title>
+      <media:description>Philadelphia</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/wyspfm-new.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_22.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/1</media:category>
+      <vmrss:orderInCategory path="music/1" value="1" />
+    </item>
+    <item>
+      <media:title>Vinyl Tap</media:title>
+      <media:description>Philadelphia</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/WOGLHD2.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_23.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/3</media:category>
+      <vmrss:orderInCategory path="music/3" value="2" />
+    </item>
+    <item>
+      <media:title>Orlando Vacation Radio</media:title>
+      <media:description>Orlando</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/WOMXHD2.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_24.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/0</media:category>
+      <vmrss:orderInCategory path="music/0" value="4" />
+    </item>
+    <item>
+      <media:title>KROQ Roq of the 80s</media:title>
+      <media:description>Los Angeles</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/KROQ-HD2_800x800.jpeg" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_25.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/5</media:category>
+      <vmrss:orderInCategory path="music/5" value="4" />
+    </item>
+    <item>
+      <media:title>B94</media:title>
+      <media:description>Pittsburgh</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/b94-logo.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_26.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/0</media:category>
+      <vmrss:orderInCategory path="music/0" value="5" />
+    </item>
+    <item>
+      <media:title>Fierro HD</media:title>
+      <media:description>Dallas</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/KMVKHD2.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_27.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/17</media:category>
+      <vmrss:orderInCategory path="music/17" value="2" />
+    </item>
+    <item>
+      <media:title>CBS Sports Radio 1270</media:title>
+      <media:description>Southfield</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/WXYT-AM_1400x1400.jpg" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_28.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>sports</media:category>
+      <vmrss:orderInCategory path="sports" value="3" />
+    </item>
+    <item>
+      <media:title>92.3 The Fan</media:title>
+      <media:description>Cleveland</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/WKRK-FM_1400x1400.jpg" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_29.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>sports</media:category>
+      <vmrss:orderInCategory path="sports" value="4" />
+    </item>
+    <item>
+      <media:title>LIVE 101.5</media:title>
+      <media:description>Phoenix</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/KALVFM.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_30.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/0</media:category>
+      <vmrss:orderInCategory path="music/0" value="6" />
+    </item>
+    <item>
+      <media:title>KCBS All News 106.9FM and 740AM</media:title>
+      <media:description>San Francisco</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/KCBSAM_800x800.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_31.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>news</media:category>
+      <vmrss:orderInCategory path="news" value="5" />
+    </item>
+    <item>
+      <media:title>MIX 105.1</media:title>
+      <media:description>Orlando</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/mixsquaregrey.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_32.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/0</media:category>
+      <vmrss:orderInCategory path="music/0" value="7" />
+    </item>
+    <item>
+      <media:title>Area 95.5 HD2</media:title>
+      <media:description>Lanham</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/icons_area955.jpg" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_33.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/13</media:category>
+      <vmrss:orderInCategory path="music/13" value="1" />
+    </item>
+    <item>
+      <media:title>MIX 96.5</media:title>
+      <media:description>Houston</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/KHMX-FM_1400x1400.jpg" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_34.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/0</media:category>
+      <vmrss:orderInCategory path="music/0" value="8" />
+    </item>
+    <item>
+      <media:title>The New 94.1 The Sound</media:title>
+      <media:description>Seattle</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/KMPSsound.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_35.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/9</media:category>
+      <vmrss:orderInCategory path="music/9" value="2" />
+    </item>
+    <item>
+      <media:title>98.1 WOGL</media:title>
+      <media:description>Philadelphia</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/WOGLFM.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_36.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/3</media:category>
+      <vmrss:orderInCategory path="music/3" value="3" />
+    </item>
+    <item>
+      <media:title>Smokin’ Oldies</media:title>
+      <media:description>Dallas</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/KLUVHD2.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_37.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/3</media:category>
+      <vmrss:orderInCategory path="music/3" value="4" />
+    </item>
+    <item>
+      <media:title>MusicTown</media:title>
+      <media:description>Detroit</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/womc-hd3-musictown-logo.jpg" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_38.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/8</media:category>
+      <vmrss:orderInCategory path="music/8" value="3" />
+    </item>
+    <item>
+      <media:title>HFS @104.9</media:title>
+      <media:description>Baltimore</media:description>
+      <media:thumbnail url="https://images.radio.com/logos/WWMXHD2.png" width="256" height="144" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_39.mp4"/>
+      <media:keywords>bunny, animal, fluffy</media:keywords>
+      <media:category>music/5</media:category>
+      <vmrss:orderInCategory path="music/5" value="5" />
     </item>
   </channel>
 </rss>
