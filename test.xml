@@ -30,6 +30,8 @@
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" />
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb.jpg?api=v2" width="256" height="144" />
 
+<media:category>clips</media:category>
+
       <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
       <media:category>videos/cute/sweet</media:category>
       <media:category>series/episode1</media:category>
@@ -46,6 +48,8 @@
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" />
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
 
+<media:category>clips</media:category>
+
       <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
       <media:category>videos/cute/sweet</media:category>
       <media:category>series/episode1</media:category>
@@ -61,6 +65,8 @@
       <media:description>Bunny video 3</media:description>
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4" />
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb2.jpg?api=v2" width="256" height="144" />
+
+<media:category>clips</media:category>
 
       <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
       <media:category>videos/cute/cool</media:category>
