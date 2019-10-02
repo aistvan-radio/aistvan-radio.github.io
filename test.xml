@@ -1,25 +1,26 @@
 <!--  mrss docs: http://www.rssboard.org/media-rss  -->
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:vmrss="http://snap.cloud.vewd.com/vmrss/" version="2.0">
   <channel>
-    <title>Sample Title</title>
+    <title>Channel Title</title>
     <description>Description of channel content</description>
 
     <vmrss:metadata>
       <!-- 1st category level. -->
-	  <vmrss:categoryData order="1" path="series" label="THE Bunny Stories" description="Section with cool clips."/>
+	  <vmrss:categoryData order="1" path="series" label="Bunny Stories" description="Section with cool clips."/>
+        <vmrss:categoryData order="1" path="series/episode1" label="Episode 1" description="Bunny Stories: Episode 1" />
+        <vmrss:categoryData order="2" path="series/episode2" label="Episode 2" description="Bunny Stories: Episode 2" />
+        <vmrss:categoryData order="3" path="series/episode3" label="Episode 3" description="Bunny Stories: Episode 2" />
+
       <vmrss:categoryData order="2" path="videos" label="Bunny Collections" description="Section with cool clips."/>
+          <vmrss:categoryData order="1" path="videos/cute" label="Cute Collection" description="Cute bunnys" />
+            <vmrss:categoryData order="1" path="videos/cute/sweet" label="Cute and Sweet Collection" description="Cute and Sweet bunnys" />
+            <vmrss:categoryData order="2" path="videos/cute/cool" label="Cute and Cool Collection" description="Cute and Cool bunnys" />
+          <vmrss:categoryData order="2" path="videos/fluffy" label="Fluffy  Collection" description="Fluffy bunnys" />
 
-      <!-- 2nd category level. -->
-      <vmrss:categoryData order="1" path="videos/cute" label="Cute Collection" description="Cute bunnys" />
-	  <vmrss:categoryData order="2" path="videos/fluffy" label="Fluffy  Collection" description="Fluffy bunnys" />
 
-	  <vmrss:categoryData order="1" path="series/episode1" label="Episode 1" description="Bunny Stories: Episode 1" />
-      <vmrss:categoryData order="2" path="series/episode2" label="Episode 2" description="Bunny Stories: Episode 2" />
-	  <vmrss:categoryData order="2" path="series/episode3" label="Episode 3" description="Bunny Stories: Episode 2" />
 
       <!-- 3rd category level. -->
-      <vmrss:categoryData order="1" path="videos/cute/sweet" label="Cute and Sweet Collection" description="Cute and Sweet bunnys" />
-      <vmrss:categoryData order="2" path="videos/cute/cool" label="Cute and Cool Collection" description="Cute and Cool bunnys" />
+
 
     </vmrss:metadata>
 
