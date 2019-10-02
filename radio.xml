@@ -4,7 +4,7 @@
     <description>Description of channel content</description>
     <vmrss:metadata>
       <vmrss:categoryData order="1" path="music"  label="Music"       description="Music Description"      />
-        <vmrss:categoryData order="1" path="music/station1" label="Chicago's Blues & Soul" description="???" />
+        <vmrss:categoryData order="1" path="music/station1" label="Chicago's Blues and Soul" description="???" />
         <vmrss:categoryData order="2" path="music/station2" label="Infinity Radio" description="???" />
         <vmrss:categoryData order="3" path="music/station3" label="KFROG" description="???" />
         <vmrss:categoryData order="4" path="music/station4" label="K-FROG NEXT" description="???" />
@@ -18,8 +18,8 @@
         <vmrss:categoryData order="12" path="music/station12" label="94.7 The WAVE" description="???" />
         <vmrss:categoryData order="13" path="music/station13" label="The Oasis - Modern Jazz" description="???" />
         <vmrss:categoryData order="14" path="music/station14" label="Alice @ 97.3" description="???" />
-      <vmrss:categoryData order="2" path="news"   label="News & Talk" description="News & Talk Description"/>
-        <vmrss:categoryData order="1" path="news/station1" label="WBBM Newsradio 780 AM & 105.9 FM" description="???" />
+      <vmrss:categoryData order="2" path="news"   label="News and Talk" description="News and Talk Description"/>
+        <vmrss:categoryData order="1" path="news/station1" label="WBBM Newsradio 780 AM and 105.9 FM" description="???" />
         <vmrss:categoryData order="2" path="news/station2" label="News and Talk Radio 840 AM" description="???" />
         <vmrss:categoryData order="3" path="news/station3" label="1010 WINS" description="???" />
         <vmrss:categoryData order="4" path="news/station4" label="Talk Radio 1210 WPHT" description="???" />
@@ -38,7 +38,7 @@
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
-      <media:title>WBBM Newsradio 780 AM & 105.9 FM</media:title>
+      <media:title>WBBM Newsradio 780 AM and 105.9 FM</media:title>
       <media:description>Chicago</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4#1" />
@@ -47,7 +47,7 @@
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
-      <media:title>Chicago's Blues & Soul</media:title>
+      <media:title>Chicago's Blues and Soul</media:title>
       <media:description>Chicago</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4#1" />
