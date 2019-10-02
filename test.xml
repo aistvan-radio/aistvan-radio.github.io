@@ -17,10 +17,10 @@
       <!-- Video thumbnail. 16:9 thumbnail ratio is a must. 256x144 [px] is minimal and recommended for the best user experience . If image will greater it will be scaled to recommended size -->
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb.jpg?api=v2" width="256" height="144" />
       <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
-      <media:category>series/episode1</media:category>
+      <media:category>series</media:category>
       <!-- optional: -->
       <!-- with vmrss:orderInCategory you can define order in each category separately -->
-      <vmrss:orderInCategory path="series/episode1" value="1" />
+      <vmrss:orderInCategory path="series" value="1" />
       <!-- / optional -->
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4#1" />
       <!--  If you use below tag then the media:content above will be ignored -->
@@ -47,10 +47,10 @@
       <!-- Video thumbnail. 16:9 thumbnail ratio is a must. 256x144 [px] is minimal and recommended for the best user experience . If image will greater it will be scaled to recommended size -->
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
       <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
-      <media:category>series/episode1</media:category>
+      <media:category>series</media:category>
       <!-- optional: -->
       <!-- with vmrss:orderInCategory you can define order in each category separately -->
-      <vmrss:orderInCategory path="series/episode1" value="2" />
+      <vmrss:orderInCategory path="series" value="2" />
       <!-- / optional -->
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://media-dcp.otvs.tv /progressive/h264/bbb_h264_baseline_3.1.mp4#1" />
       <!--  If you use below tag then the single media:content above will be ignored -->
@@ -77,82 +77,13 @@
       <!-- Video thumbnail. 16:9 thumbnail ratio is a must. 256x144 [px] is minimal and recommended for the best user experience . If image will greater it will be scaled to recommended size -->
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb2.jpg?api=v2" width="256" height="144" />
       <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
-      <media:category>series/episode2</media:category>
+      <media:category>series</media:category>
       <!-- optional: -->
       <!-- with vmrss:orderInCategory you can define order in each category separately -->
-      <vmrss:orderInCategory path="series/episode2" value="1" />
+      <vmrss:orderInCategory path="series" value="3" />
       <!-- / optional -->
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_main_4.0.mp4" />
       <media:keywords>bunny, cute, cool</media:keywords>
-      <!--  WebVTT Subtitle specification http://dev.w3.org/html5/webvtt/  -->
-      <media:subTitle type="text/vtt" lang="en-us" href="http://example.com/subtitle_en.vtt" />
-      <media:subTitle type="text/vtt" lang="pl-pl" href="http://example.com/subtitle_pl.vtt" />
-    </item>
-    <item>
-      <!--  Date format is specified in http://www.w3.org/Protocols/rfc822/#z28  -->
-      <pubDate>Fri, 18 Dec 2014 10:00:01 GMT</pubDate>
-      <!-- Title of the item, whether it be a video or a live stream, if not specified we'll try will fallback from media:title to title from RSS specification -->
-      <media:title>Bunny 4</media:title>
-      <!-- Description of the video -->
-      <media:description>
-        Bunny video 4
-      </media:description>
-      <!-- Video thumbnail. 16:9 thumbnail ratio is a must. 256x144 [px] is minimal and recommended for the best user experience . If image will greater it will be scaled to recommended size -->
-      <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb3.png?api=v2" width="256" height="144" />
-      <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
-      <media:category>series/episode2</media:category>
-      <!-- optional: -->
-      <!-- with vmrss:orderInCategory you can define order in each category separately -->
-      <vmrss:orderInCategory path="series/episode2" value="2" />
-      <!-- / optional -->
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://media-dcp.otvs.tv /progressive/h264/bbb_h264_main_4.0.mp4" />
-      <media:keywords>bunny, cute, cool</media:keywords>
-      <!--  WebVTT Subtitle specification http://dev.w3.org/html5/webvtt/  -->
-      <media:subTitle type="text/vtt" lang="en-us" href="http://example.com/subtitle_en.vtt" />
-      <media:subTitle type="text/vtt" lang="pl-pl" href="http://example.com/subtitle_pl.vtt" />
-    </item>
-    <item>
-      <!--  Date format is specified in http://www.w3.org/Protocols/rfc822/#z28  -->
-      <pubDate>Fri, 19 Dec 2014 10:00:01 GMT</pubDate>
-      <!-- Title of the item, whether it be a video or a live stream, if not specified we'll try will fallback from media:title to title from RSS specification -->
-      <media:title>Bunny 5</media:title>
-      <!-- Description of the video -->
-      <media:description>
-        Bunny video 5
-      </media:description>
-      <!-- Video thumbnail. 16:9 thumbnail ratio is a must. 256x144 [px] is minimal and recommended for the best user experience . If image will greater it will be scaled to recommended size -->
-      <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb.jpg?api=v2" width="256" height="144" />
-      <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
-      <media:category>series/episode2</media:category>
-      <!-- optional: -->
-      <!-- with vmrss:orderInCategory you can define order in each category separately -->
-      <vmrss:orderInCategory path="series/episode3" value="1" />
-      <!-- / optional -->
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_high_4.0.mp4" />
-      <media:keywords>bunny, cute</media:keywords>
-      <!--  WebVTT Subtitle specification http://dev.w3.org/html5/webvtt/  -->
-      <media:subTitle type="text/vtt" lang="en-us" href="http://example.com/subtitle_en.vtt" />
-      <media:subTitle type="text/vtt" lang="pl-pl" href="http://example.com/subtitle_pl.vtt" />
-    </item>
-    <item>
-      <!--  Date format is specified in http://www.w3.org/Protocols/rfc822/#z28  -->
-      <pubDate>Fri, 20 Dec 2014 10:00:01 GMT</pubDate>
-      <!-- Title of the item, whether it be a video or a live stream, if not specified we'll try will fallback from media:title to title from RSS specification -->
-      <media:title>Bunny 6</media:title>
-      <!-- Description of the video -->
-      <media:description>
-        Bunny video 6
-      </media:description>
-      <!-- Video thumbnail. 16:9 thumbnail ratio is a must. 256x144 [px] is minimal and recommended for the best user experience . If image will greater it will be scaled to recommended size -->
-      <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <!-- At least one category is required though item may have more than one category. "media:category" element should contain path to the actual category defined in vmrss:metadata tag if one is present or just a simple name of the category -->
-      <media:category>series/episode3</media:category>
-      <!-- optional: -->
-      <!-- with vmrss:orderInCategory you can define order in each category separately -->
-      <vmrss:orderInCategory path="series/episode3" value="2" />
-      <!-- / optional -->
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://media-dcp.otvs.tv /progressive/h264/https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_high_4.0.mp4" />
-      <media:keywords>bunny, animal, fluffy</media:keywords>
       <!--  WebVTT Subtitle specification http://dev.w3.org/html5/webvtt/  -->
       <media:subTitle type="text/vtt" lang="en-us" href="http://example.com/subtitle_en.vtt" />
       <media:subTitle type="text/vtt" lang="pl-pl" href="http://example.com/subtitle_pl.vtt" />
