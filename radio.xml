@@ -1,4 +1,3 @@
-
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:vmrss="http://snap.cloud.vewd.com/vmrss/" version="2.0">
   <channel>
     <title>Channel Title</title>
@@ -29,7 +28,7 @@
         <vmrss:categoryData order="2" path="sports/station2" label="SportsRadio 94WIP" description="???" />
     </vmrss:metadata>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>SportsRadio 610</media:title>
       <media:description>Houston</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -38,7 +37,7 @@
       <vmrss:orderInCategory path="sports/station" value="1" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>WBBM Newsradio 780 AM & 105.9 FM</media:title>
       <media:description>Chicago</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -47,7 +46,7 @@
       <vmrss:orderInCategory path="news/station" value="1" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Chicago's Blues & Soul</media:title>
       <media:description>Chicago</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -56,7 +55,7 @@
       <vmrss:orderInCategory path="music/station" value="1" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Infinity Radio</media:title>
       <media:description>null</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -65,7 +64,7 @@
       <vmrss:orderInCategory path="music/station" value="2" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>News and Talk Radio 840 AM</media:title>
       <media:description>Las Vegas</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -74,7 +73,7 @@
       <vmrss:orderInCategory path="news/station" value="2" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>KFROG</media:title>
       <media:description>Colton</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -83,7 +82,7 @@
       <vmrss:orderInCategory path="music/station" value="3" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>K-FROG NEXT</media:title>
       <media:description>Colton</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -92,7 +91,7 @@
       <vmrss:orderInCategory path="music/station" value="4" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Mega 101 Houston</media:title>
       <media:description>Houston</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -101,7 +100,7 @@
       <vmrss:orderInCategory path="music/station" value="5" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>KROQ</media:title>
       <media:description>Los Angeles</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -110,7 +109,7 @@
       <vmrss:orderInCategory path="music/station" value="6" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>102.5 KSFM</media:title>
       <media:description>Sacramento</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -119,7 +118,7 @@
       <vmrss:orderInCategory path="music/station" value="7" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Classic Live 105</media:title>
       <media:description>San Francisco</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -128,7 +127,7 @@
       <vmrss:orderInCategory path="music/station" value="8" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>1010 WINS</media:title>
       <media:description>New York</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -137,7 +136,7 @@
       <vmrss:orderInCategory path="news/station" value="3" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>102.5 KEZK</media:title>
       <media:description>Saint Louis</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -146,7 +145,7 @@
       <vmrss:orderInCategory path="music/station" value="9" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Star 102</media:title>
       <media:description>Cleveland</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -155,7 +154,7 @@
       <vmrss:orderInCategory path="music/station" value="10" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>SportsRadio 94WIP</media:title>
       <media:description>Philadelphia</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -164,7 +163,7 @@
       <vmrss:orderInCategory path="sports/station" value="2" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>100.3 Jack FM</media:title>
       <media:description>Dallas</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -173,7 +172,7 @@
       <vmrss:orderInCategory path="music/station" value="11" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>94.7 The WAVE</media:title>
       <media:description>Los Angeles</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -182,7 +181,7 @@
       <vmrss:orderInCategory path="music/station" value="12" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>The Oasis - Modern Jazz</media:title>
       <media:description>Dallas</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -191,7 +190,7 @@
       <vmrss:orderInCategory path="music/station" value="13" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Talk Radio 1210 WPHT</media:title>
       <media:description>Philadelphia</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
@@ -200,7 +199,7 @@
       <vmrss:orderInCategory path="news/station" value="4" />
     </item>
     <item>
-      <pubDate>???</pubDate>
+      <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
       <media:title>Alice @ 97.3</media:title>
       <media:description>San Francisco</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
