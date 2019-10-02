@@ -3,7 +3,7 @@
     <title>Channel Title</title>
     <description>Description of channel content</description>
     <vmrss:metadata>
-      <vmrss:categoryData order="1" path="series" label="Bunny Stories" description="Section with cool clips."/>
+      <vmrss:categoryData order="1" path="series" label="The Bunny Stories" description="Section with cool clips."/>
         <vmrss:categoryData order="1" path="series/episode1" label="Episode 1" description="Bunny Stories: Episode 1" />
         <vmrss:categoryData order="2" path="series/episode2" label="Episode 2" description="Bunny Stories: Episode 2" />
         <vmrss:categoryData order="3" path="series/episode3" label="Episode 3" description="Bunny Stories: Episode 2" />
