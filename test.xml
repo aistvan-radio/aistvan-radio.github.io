@@ -50,7 +50,6 @@
         <media:content type="video/mp4" duration="596" height="1080" width="1920" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4#2" />
         <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4#3" />
       </media:group>
-      <media:keywords>cute, sweet</media:keywords>
     </item>
 
     <item>
@@ -72,15 +71,7 @@
       <vmrss:orderInCategory path="videos/cute/sweet" value="2" />
       <vmrss:orderInCategory path="series/episode1" value="2" />
       <!-- / optional -->
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://media-dcp.otvs.tv /progressive/h264/bbb_h264_baseline_3.1.mp4#1" />
-      <!--  If you use below tag then the single media:content above will be ignored -->
-      <media:group>
-	    <!-- Here you can provide multiple formats of the same video -->
-	    <!-- <media:content type="application/vnd.apple.mpegurl" duration="596" height="720" width="1280" url="https://foo.com/bar.m3u8" -->
-        <media:content type="video/mp4" duration="596" height="1080" width="1920" url="https://media-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4#2" />
-        <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://media-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4#3" />
-      </media:group>
-      <media:keywords>sweet, cute</media:keywords>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4" />
     </item>
 
 	    <item>
@@ -102,8 +93,7 @@
       <vmrss:orderInCategory path="videos/cute/cool" value="1" />
       <vmrss:orderInCategory path="series/episode2" value="1" />
       <!-- / optional -->
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_main_4.0.mp4" />
-      <media:keywords>bunny, cute, cool</media:keywords>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4" />
     </item>
 
     <item>
@@ -125,8 +115,7 @@
       <vmrss:orderInCategory path="videos/cute/cool" value="2" />
       <vmrss:orderInCategory path="series/episode2" value="2" />
       <!-- / optional -->
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://media-dcp.otvs.tv /progressive/h264/bbb_h264_main_4.0.mp4" />
-      <media:keywords>bunny, cute, cool</media:keywords>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4" />
     </item>
 
 	    <item>
@@ -150,7 +139,6 @@
       <vmrss:orderInCategory path="series/episode3" value="1" />
       <!-- / optional -->
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" />
-      <media:keywords>bunny, cute</media:keywords>
     </item>
 
     <item>
@@ -173,7 +161,6 @@
       <vmrss:orderInCategory path="series/episode3" value="2" />
       <!-- / optional -->
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" />
-      <media:keywords>bunny, animal, fluffy</media:keywords>
     </item>
   </channel>
 </rss>
