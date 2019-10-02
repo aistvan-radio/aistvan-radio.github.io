@@ -14,7 +14,7 @@
       <media:description> Bunny video 1 </media:description>
       <media:category>series</media:category>
       <vmrss:orderInCategory path="series" value="1" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4#1" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" />
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb.jpg?api=v2" width="256" height="144" />
     </item>
     <item>
@@ -23,7 +23,7 @@
       <media:description> Bunny video 2</media:description>
       <media:category>series</media:category>
       <vmrss:orderInCategory path="series" value="2" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://media-dcp.otvs.tv /progressive/h264/bbb_h264_baseline_3.1.mp4#1" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"" />
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
     </item>
     <item>
@@ -32,7 +32,7 @@
       <media:description>Bunny video 3</media:description>
       <media:category>series</media:category>
       <vmrss:orderInCategory path="series" value="3" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_main_4.0.mp4" />
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" />
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb2.jpg?api=v2" width="256" height="144" />
     </item>
   </channel>
