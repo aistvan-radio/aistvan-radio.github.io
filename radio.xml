@@ -4,6 +4,15 @@
     <description>Description of channel content</description>
     <vmrss:metadata>
       <vmrss:categoryData order="1" path="music" label="Music" description="Music Description"/>
+        <vmrss:categoryData order="1" path="music/0" label="Music Pop" description="Music Description"/>
+        <vmrss:categoryData order="2" path="music/2" label="Music Country" description="Music Description"/>
+        <vmrss:categoryData order="3" path="music/4" label="Music Urban" description="Music Description"/>
+        <vmrss:categoryData order="4" path="music/5" label="Music Alternative" description="Music Description"/>
+        <vmrss:categoryData order="5" path="music/7" label="Music Jazz/Blues" description="Music Description"/>
+        <vmrss:categoryData order="6" path="music/8" label="Music Specialty Stations" description="Music Description"/>
+        <vmrss:categoryData order="7" path="music/14" label="Music Rhythmic" description="Music Description"/>
+        <vmrss:categoryData order="8" path="music/15" label="Music Hip-Hop" description="Music Description"/>
+        <vmrss:categoryData order="9" path="music/17" label="Music Spanish" description="Music Description"/>
       <vmrss:categoryData order="2" path="news" label="News &amp; Talk" description="News &amp; Talk Description"/>
       <vmrss:categoryData order="3" path="sports" label="Sports" description="Sports Description"/>
     </vmrss:metadata>
@@ -34,8 +43,8 @@
       <media:thumbnail url="https://images.radio.com/logos/WXRTHD2.jpg" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_2.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="1" />
+      <media:category>music/5</media:category>
+      <vmrss:orderInCategory path="music/5" value="1" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -44,8 +53,8 @@
       <media:thumbnail url="https://images.radio.com/logos/INFINITY.jpg" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="2" />
+      <media:category>music/8</media:category>
+      <vmrss:orderInCategory path="music/8" value="1" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -64,8 +73,8 @@
       <media:thumbnail url="https://images.radio.com/logos/kfrg-logo.png" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_5.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="3" />
+      <media:category>music/2</media:category>
+      <vmrss:orderInCategory path="music/2" value="1" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -74,8 +83,8 @@
       <media:thumbnail url="https://images.radio.com/logos/KFRGHD2.png" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_6.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="4" />
+      <media:category>music/2</media:category>
+      <vmrss:orderInCategory path="music/2" value="2" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -84,8 +93,8 @@
       <media:thumbnail url="https://images.radio.com/logos/KLOLFM.png" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_7.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="5" />
+      <media:category>music/17</media:category>
+      <vmrss:orderInCategory path="music/17" value="1" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -94,8 +103,8 @@
       <media:thumbnail url="https://images.radio.com/logos/KROQFM_new.jpg" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_8.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="6" />
+      <media:category>music/5</media:category>
+      <vmrss:orderInCategory path="music/5" value="2" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -104,8 +113,10 @@
       <media:thumbnail url="https://images.radio.com/logos/KSFMFM.png" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_9.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="7" />
+      <media:category>music/14</media:category>
+      <media:category>music/15</media:category>
+      <vmrss:orderInCategory path="music/14" value="1" />
+      <vmrss:orderInCategory path="music/15" value="1" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -114,8 +125,8 @@
       <media:thumbnail url="https://images.radio.com/logos/KITSHD2.jpg" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_10.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="8" />
+      <media:category>music/5</media:category>
+      <vmrss:orderInCategory path="music/5" value="3" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -134,8 +145,8 @@
       <media:thumbnail url="https://images.radio.com/logos/KEZKFM.png" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_12.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="9" />
+      <media:category>music/0</media:category>
+      <vmrss:orderInCategory path="music/0" value="1" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -144,8 +155,8 @@
       <media:thumbnail url="https://images.radio.com/logos/WDOKFM_New.png" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_13.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="10" />
+      <media:category>music/0</media:category>
+      <vmrss:orderInCategory path="music/0" value="2" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -164,8 +175,8 @@
       <media:thumbnail url="https://images.radio.com/logos/KJKKFM.jpg" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_15.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="11" />
+      <media:category>music/8</media:category>
+      <vmrss:orderInCategory path="music/8" value="2" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -174,8 +185,8 @@
       <media:thumbnail url="https://images.radio.com/logos/ktwv-square-logo.png" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_16.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="12" />
+      <media:category>music/4</media:category>
+      <vmrss:orderInCategory path="music/4" value="1" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -184,8 +195,8 @@
       <media:thumbnail url="https://images.radio.com/logos/KVILHD2.png" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_17.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="13" />
+      <media:category>music/7</media:category>
+      <vmrss:orderInCategory path="music/7" value="1" />
     </item>
     <item>
       <pubDate>Fri, 16 Dec 2014 10:00:01 GMT</pubDate>
@@ -204,8 +215,8 @@
       <media:thumbnail url="https://images.radio.com/logos/KLLC-FM_1400x1400.jpg" width="256" height="144" />
       <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_19.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
-      <media:category>music</media:category>
-      <vmrss:orderInCategory path="music" value="14" />
+      <media:category>music/0</media:category>
+      <vmrss:orderInCategory path="music/0" value="3" />
     </item>
   </channel>
 </rss>
