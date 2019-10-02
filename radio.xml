@@ -12,7 +12,7 @@
       <media:title>SportsRadio 610</media:title>
       <media:description>Houston</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=0"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_0.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>sports</media:category>
       <vmrss:orderInCategory path="sports" value="1" />
@@ -22,7 +22,7 @@
       <media:title>WBBM Newsradio 780 AM &amp; 105.9 FM</media:title>
       <media:description>Chicago</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=1"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_1.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>news</media:category>
       <vmrss:orderInCategory path="news" value="1" />
@@ -32,7 +32,7 @@
       <media:title>Chicago's Blues &amp; Soul</media:title>
       <media:description>Chicago</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=2"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_2.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="1" />
@@ -42,7 +42,7 @@
       <media:title>Infinity Radio</media:title>
       <media:description>null</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=3"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="2" />
@@ -52,7 +52,7 @@
       <media:title>News and Talk Radio 840 AM</media:title>
       <media:description>Las Vegas</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=4"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_4.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>news</media:category>
       <vmrss:orderInCategory path="news" value="2" />
@@ -62,7 +62,7 @@
       <media:title>KFROG</media:title>
       <media:description>Colton</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=5"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_5.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="3" />
@@ -72,7 +72,7 @@
       <media:title>K-FROG NEXT</media:title>
       <media:description>Colton</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=6"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_6.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="4" />
@@ -82,7 +82,7 @@
       <media:title>Mega 101 Houston</media:title>
       <media:description>Houston</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=7"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_7.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="5" />
@@ -92,7 +92,7 @@
       <media:title>KROQ</media:title>
       <media:description>Los Angeles</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=8"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_8.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="6" />
@@ -102,7 +102,7 @@
       <media:title>102.5 KSFM</media:title>
       <media:description>Sacramento</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=9"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_9.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="7" />
@@ -112,7 +112,7 @@
       <media:title>Classic Live 105</media:title>
       <media:description>San Francisco</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=10"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_10.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="8" />
@@ -122,7 +122,7 @@
       <media:title>1010 WINS</media:title>
       <media:description>New York</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=11"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_11.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>news</media:category>
       <vmrss:orderInCategory path="news" value="3" />
@@ -132,7 +132,7 @@
       <media:title>102.5 KEZK</media:title>
       <media:description>Saint Louis</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=12"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_12.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="9" />
@@ -142,7 +142,7 @@
       <media:title>Star 102</media:title>
       <media:description>Cleveland</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=13"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_13.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="10" />
@@ -152,7 +152,7 @@
       <media:title>SportsRadio 94WIP</media:title>
       <media:description>Philadelphia</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=14"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_14.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>sports</media:category>
       <vmrss:orderInCategory path="sports" value="2" />
@@ -162,7 +162,7 @@
       <media:title>100.3 Jack FM</media:title>
       <media:description>Dallas</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=15"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_15.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="11" />
@@ -172,7 +172,7 @@
       <media:title>94.7 The WAVE</media:title>
       <media:description>Los Angeles</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=16"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_16.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="12" />
@@ -182,7 +182,7 @@
       <media:title>The Oasis - Modern Jazz</media:title>
       <media:description>Dallas</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=17"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_17.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="13" />
@@ -192,7 +192,7 @@
       <media:title>Talk Radio 1210 WPHT</media:title>
       <media:description>Philadelphia</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=18"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_18.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>news</media:category>
       <vmrss:orderInCategory path="news" value="4" />
@@ -202,7 +202,7 @@
       <media:title>Alice @ 97.3</media:title>
       <media:description>San Francisco</media:description>
       <media:thumbnail url="https://wiki.operatv.tv/download/attachments/327734/thumb1.jpg?api=v2" width="256" height="144" />
-      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_3.1.mp4?=19"/>
+      <media:content type="video/mp4" duration="596" height="720" width="1280" url="https://s3-dcp.otvs.tv/progressive/h264/bbb_h264_baseline_19.mp4"/>
       <media:keywords>bunny, animal, fluffy</media:keywords>
       <media:category>music</media:category>
       <vmrss:orderInCategory path="music" value="14" />
