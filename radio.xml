@@ -4,24 +4,24 @@
     <description>Description of channel content</description>
     <vmrss:metadata>
       <vmrss:categoryData order="1" path="music" label="Music" description="Music Description"/>
-        <vmrss:categoryData order="1" path="music/0" label="Pop" description="Music Description"/>
-        <vmrss:categoryData order="2" path="music/1" label="Rock" description="Music Description"/>
-        <vmrss:categoryData order="3" path="music/2" label="Country" description="Music Description"/>
-        <vmrss:categoryData order="4" path="music/3" label="Classic Hits" description="Music Description"/>
-        <vmrss:categoryData order="5" path="music/4" label="Urban" description="Music Description"/>
-        <vmrss:categoryData order="6" path="music/5" label="Alternative" description="Music Description"/>
-        <vmrss:categoryData order="7" path="music/6" label="Christian/Gospel" description="Music Description"/>
-        <vmrss:categoryData order="8" path="music/7" label="Jazz/Blues" description="Music Description"/>
-        <vmrss:categoryData order="9" path="music/8" label="Specialty Stations" description="Music Description"/>
-        <vmrss:categoryData order="10" path="music/9" label="Adult Contemporary" description="Music Description"/>
-        <vmrss:categoryData order="11" path="music/10" label="Adult Rock" description="Music Description"/>
-        <vmrss:categoryData order="12" path="music/11" label="Comedy" description="Music Description"/>
-        <vmrss:categoryData order="13" path="music/12" label="Classic Rock" description="Music Description"/>
-        <vmrss:categoryData order="14" path="music/13" label="Dance/EDM" description="Music Description"/>
-        <vmrss:categoryData order="15" path="music/14" label="Rhythmic" description="Music Description"/>
-        <vmrss:categoryData order="16" path="music/15" label="Hip-Hop" description="Music Description"/>
-        <vmrss:categoryData order="17" path="music/16" label="Holiday" description="Music Description"/>
-        <vmrss:categoryData order="18" path="music/17" label="Spanish" description="Music Description"/>
+        <vmrss:categoryData order="1" path="music/0" label="Pop" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="2" path="music/1" label="Rock" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="3" path="music/2" label="Country" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="4" path="music/3" label="Classic Hits" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="5" path="music/4" label="Urban" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="6" path="music/5" label="Alternative" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="7" path="music/6" label="Christian/Gospel" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="8" path="music/7" label="Jazz/Blues" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="9" path="music/8" label="Specialty Stations" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="10" path="music/9" label="Adult Contemporary" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="11" path="music/10" label="Adult Rock" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="12" path="music/11" label="Comedy" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="13" path="music/12" label="Classic Rock" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="14" path="music/13" label="Dance/EDM" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="15" path="music/14" label="Rhythmic" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="16" path="music/15" label="Hip-Hop" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="17" path="music/16" label="Holiday" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="18" path="music/17" label="Spanish" description="Music Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
       <vmrss:categoryData order="2" path="news" label="News &amp; Talk" description="News &amp; Talk Description"/>
       <vmrss:categoryData order="3" path="sports" label="Sports" description="Sports Description"/>
     </vmrss:metadata>
