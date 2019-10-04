@@ -4,14 +4,14 @@
     <description>Description of channel content</description>
     <vmrss:metadata>
       <vmrss:categoryData order="1" path="market" label="Location" description="Location Description"/>
-        <vmrss:categoryData order="1" path="market/1" label="Atlanta" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="1" path="market/1" label="Atlanta" description="Market Description" thumbnail="https://aistvan-radio.github.io/atlanta.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/1/0" label="The Morning Show w/ John and Hugh" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="2" path="market/2" label="Baltimore" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="2" path="market/2" label="Baltimore" description="Market Description" thumbnail="https://aistvan-radio.github.io/baltimore.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/2/0" label="105-7 The Fan - Flash Briefing" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="2" path="market/2/1" label="College Football 365" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="3" path="market/3" label="Boston" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="3" path="market/3" label="Boston" description="Market Description" thumbnail="https://aistvan-radio.github.io/boston.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/3/0" label="The TJ Show Podcasts" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="4" path="market/4" label="Chicago" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="4" path="market/4" label="Chicago" description="Market Description" thumbnail="https://aistvan-radio.github.io/chicago.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/4/0" label="A Minute For Kids on WBBM Newsradio" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="2" path="market/4/1" label="At Issue on WBBM Newsradio" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="3" path="market/4/2" label="BGA Watchdog on WBBM Newsradio" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
@@ -34,7 +34,7 @@
           <vmrss:categoryData order="20" path="market/4/19" label="Weekend Journal on US99.5" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="21" path="market/4/20" label="Going To The Show with A Regular Guy on 93XRT" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="22" path="market/4/21" label="Latest Episodes from 93XRT" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="5" path="market/5" label="Hartford" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="5" path="market/5" label="Hartford" description="Market Description" thumbnail="https://aistvan-radio.github.io/hartford.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/5/0" label="Community Connections" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="2" path="market/5/1" label="Computer Talk with TAB" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="3" path="market/5/2" label="Garden Talk" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
@@ -48,7 +48,7 @@
           <vmrss:categoryData order="11" path="market/5/10" label="THE BACHELOR PADcast" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="12" path="market/5/11" label="Str8t Talk" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="13" path="market/5/12" label="Up Next" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="6" path="market/6" label="Detroit" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="6" path="market/6" label="Detroit" description="Market Description" thumbnail="https://aistvan-radio.github.io/undefined" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/6/0" label="Automotive Insight" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="2" path="market/6/1" label="Car Chronicles" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="3" path="market/6/2" label="Charlie Langton Briefs" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
@@ -59,20 +59,20 @@
           <vmrss:categoryData order="8" path="market/6/7" label="WWJ Plus" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="9" path="market/6/8" label="Your Eye On Health" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="10" path="market/6/9" label="Caputo and Fithian" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="7" path="market/7" label="Houston" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="7" path="market/7" label="Houston" description="Market Description" thumbnail="https://aistvan-radio.github.io/houston.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/7/0" label="Heated Conversations: Hosted By Booker T" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="2" path="market/7/1" label="In The Loop" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="3" path="market/7/2" label="SportsRadio 610 Weekends" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="4" path="market/7/3" label="The Outdoors Show" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="8" path="market/8" label="Los Angeles" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="8" path="market/8" label="Los Angeles" description="Market Description" thumbnail="https://aistvan-radio.github.io/losAngeles.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/8/0" label="KNX Hero of the Week" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="9" path="market/9" label="Miami" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="9" path="market/9" label="Miami" description="Market Description" thumbnail="https://aistvan-radio.github.io/miami.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/9/0" label="Hurricanes Weekly" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="2" path="market/9/1" label="Best of 560 The JOE" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="3" path="market/9/2" label="Hochman and Crowder" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="4" path="market/9/3" label="Joe Rose Show" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="5" path="market/9/4" label="South Florida High School Sports Radio" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
-        <vmrss:categoryData order="10" path="market/10" label="Minneapolis" description="Market Description" thumbnail="https://aistvan-radio.github.io/pop.jpg" thumbwidth="256" thumbheight="144"/>
+        <vmrss:categoryData order="10" path="market/10" label="Minneapolis" description="Market Description" thumbnail="https://aistvan-radio.github.io/minneapolis.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="1" path="market/10/0" label="Business By Carlson" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="2" path="market/10/1" label="Chad Hartman" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
           <vmrss:categoryData order="3" path="market/10/2" label="Dave Lee" description="Market Description" thumbnail="https://aistvan-radio.github.io/rock.jpg" thumbwidth="256" thumbheight="144"/>
